@@ -6,7 +6,7 @@ createApp({
     data(){
         return{
             name: "PIERSILVIO",
-            foto: "IMG/IMG_8852 2.JPG",
+            foto: "IMG_8852 2.JPG",
         }
     }
 
